@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "email": "arthur@oliveira.com"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "maria@silva.com"
+    },
+    {
+      "name": "Viviane",
+      "email": "vivi@email.com",
+      "id": 3
+    },
+    {
+      "name": "Jayme Sanches",
+      "email": "jayme@email.com",
+      "id": 4
+    }
+  ]
+}
