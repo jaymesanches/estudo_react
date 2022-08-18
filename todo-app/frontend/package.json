@@ -31,7 +31,7 @@
     "redux-multi": "^0.1.12",
     "redux-thunk": "^2.2.0",
     "style-loader": "^0.13.1",
-    "webpack": "^1.14.0",
+    "webpack": "^5.74.0",
     "webpack-dev-server": "^3.1.11"
   },
   "dependencies": {
